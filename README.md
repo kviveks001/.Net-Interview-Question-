@@ -31,3 +31,14 @@
 - Coupling means dependency on others.
 - Cohesion means completeness with itself.
 - System should be Less Coupled and High Cohesive.
+
+### 10. What is Boxing and Unboxing?<br/>
+- Boxing - It is process of converting value type to objet type ( Reference Type ) <br />
+    Ex :- int i = 123;<br />
+    // The following line boxes i.<br />
+    object o = i;<br />
+    
+- Unboxing - It is process of converting objet type ( Reference Type ) to value type <br />
+    Ex :- o = 123;<br />
+          i = (int)o;  // unboxing<br />
+- https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/types/boxing-and-unboxing
