@@ -20,4 +20,4 @@
 - .Net Core :- It is plateform independent. Microservices architecture. High-performance and scalable systems.
 - .Net :- It is plateform dependent.
 - - https://stackoverflow.com/questions/38063837/whats-the-difference-between-net-core-net-framework-and-xamarin
-- - https://docs.microsoft.com/en-us/dotnet/standard/choosing-core-framework-server<hr/>
+  - https://docs.microsoft.com/en-us/dotnet/standard/choosing-core-framework-server<hr/>
